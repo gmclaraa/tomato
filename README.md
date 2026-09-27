@@ -1,16 +1,65 @@
-# React + Vite
+# 🍅 Tomato - Delivery de Comida
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido para praticar React, roteamento e gerenciamento de estado global (Context API). A aplicação simula uma plataforma de delivery de comida, com menu por categorias, carrinho de compras e finalização de pedido.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## React Compiler
+## 📚 Conceitos praticados
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Componentização e reutilização de componentes no React
+- Gerenciamento de estado global com Context API (useContext)
+- Roteamento de páginas com React Router (Routes, Route, Link, useNavigate)
+- Manipulação de listas e renderização condicional (map, filter)
+- Filtro de itens por categoria
+- Estilização responsiva com CSS puro
+- Deploy de aplicações Front-end (Vercel)
 
-## Expanding the ESLint configuration
+## 💻 Sobre o projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A proposta foi criar uma aplicação de delivery de comida com navegação entre páginas (Home, Carrinho e Finalização de Pedido). O utilizador pode explorar o menu por categorias, adicionar itens ao carrinho, visualizar o total do pedido e prosseguir para a etapa de finalização, com dados de entrega.
+
+## 🔍 Funcionalidades
+
+- Listagem de pratos por categoria (menu explorável)
+- Adição e remoção de itens do carrinho
+- Cálculo automático do valor total do pedido
+- Popup de login/cadastro
+- Página de finalização de pedido com formulário de entrega
+- Navegação entre páginas com React Router
+- Interface responsiva e adaptada para dispositivos móveis
+
+## 🚀 Como executar
+
+### Pré-requisitos
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/)
+
+### 1. Clone o projeto
+
+```bash
+git clone https://github.com/gmclaraa/tomato.git
+cd tomato
+```
+
+### 2. Instale as dependências
+```bash
+npm install
+```
+
+### 3. Execute o projeto
+```bash
+npm run dev
+```
+
+### 4. Acesse
+Abra no navegador:
+```text
+http://localhost:5173
+```
