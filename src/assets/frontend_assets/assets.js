@@ -122,7 +122,7 @@ export const food_list = [
         name: "Salada Grega",
         image: food_1,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Mix de folhas frescas, azeitonas, pepino e queijo feta",
         category: "Salada"
     },
     {
@@ -130,77 +130,77 @@ export const food_list = [
         name: "Salada Vegana",
         image: food_2,
         price: 18,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Vegetais frescos da estação com molho leve de ervas",
         category: "Salada"
     }, {
         _id: "3",
         name: "Salada Clover",
         image: food_3,
         price: 16,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Folhas verdes, grão-de-bico e sementes crocantes",
         category: "Salada"
     }, {
         _id: "4",
         name: "Salada de Frango",
         image: food_4,
         price: 24,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Frango grelhado sobre mix de folhas e molho especial",
         category: "Salada"
     }, {
         _id: "5",
         name: "Enroladinho de Lasanha",
         image: food_5,
         price: 14,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Massa recheada com molho bolonhesa e queijo gratinado",
         category: "Enroladinhos"
     }, {
         _id: "6",
         name: "Enroladinho Peri Peri",
         image: food_6,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Recheio picante de frango com molho peri peri",
         category: "Enroladinhos"
     }, {
         _id: "7",
         name: "Enroladinho de Frango",
         image: food_7,
         price: 20,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Frango grelhado com vegetais crocantes enrolados na massa",
         category: "Enroladinhos"
     }, {
         _id: "8",
         name: "Enroladinho Vegetariano",
         image: food_8,
         price: 15,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Vegetais frescos e molho especial em massa macia",
         category: "Enroladinhos"
     }, {
         _id: "9",
         name: "Sorvete Ripple",
         image: food_9,
         price: 14,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Sorvete cremoso com calda de frutas vermelhas",
         category: "Sobremesas"
     }, {
         _id: "10",
         name: "Sorvete de Frutas",
         image: food_10,
         price: 22,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Sorvete artesanal com pedaços de frutas frescas",
         category: "Sobremesas"
     }, {
         _id: "11",
         name: "Sorvete no Pote",
         image: food_11,
         price: 10,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Sorvete cremoso servido em camadas no pote",
         category: "Sobremesas"
     }, {
         _id: "12",
         name: "Sorvete de Baunilha",
         image: food_12,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Clássico sorvete de baunilha com textura aveludada",
         category: "Sobremesas"
     },
     {
@@ -208,7 +208,7 @@ export const food_list = [
         name: "Sanduíche de Frango",
         image: food_13,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Pão macio, frango grelhado e maionese temperada",
         category: "Sanduíche"
     },
     {
@@ -216,77 +216,77 @@ export const food_list = [
         name: "Sanduíche Vegano",
         image: food_14,
         price: 18,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Vegetais frescos e molho vegano em pão artesanal",
         category: "Sanduíche"
     }, {
         _id: "15",
         name: "Sanduíche Grelhado",
         image: food_15,
         price: 16,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Pão grelhado recheado com queijo derretido",
         category: "Sanduíche"
     }, {
         _id: "16",
         name: "Sanduíche de Pão",
         image: food_16,
         price: 24,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Sanduíche clássico com recheio generoso",
         category: "Sanduíche"
     }, {
         _id: "17",
         name: "Cupcake",
         image: food_17,
         price: 14,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Cupcake fofinho coberto com creme doce",
         category: "Bolo"
     }, {
         _id: "18",
         name: "Bolo Vegano",
         image: food_18,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Bolo macio sem ingredientes de origem animal",
         category: "Bolo"
     }, {
         _id: "19",
         name: "Bolo de Butterscotch",
         image: food_19,
         price: 20,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Bolo úmido com cobertura de caramelo",
         category: "Bolo"
     }, {
         _id: "20",
         name: "Bolo Fatiado",
         image: food_20,
         price: 15,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Fatia generosa de bolo caseiro",
         category: "Bolo"
     }, {
         _id: "21",
         name: "Cogumelo com Alho",
         image: food_21,
         price: 14,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Cogumelos salteados com alho e ervas frescas",
         category: "Vegetariano"
     }, {
         _id: "22",
         name: "Couve-flor Frita",
         image: food_22,
         price: 22,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Couve-flor empanada e frita até ficar crocante",
         category: "Vegetariano"
     }, {
         _id: "23",
         name: "Pulao de Legumes",
         image: food_23,
         price: 10,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Arroz temperado com legumes e especiarias",
         category: "Vegetariano"
     }, {
         _id: "24",
         name: "Arroz com Abobrinha",
         image: food_24,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Arroz salteado com abobrinha fresca",
         category: "Vegetariano"
     },
     {
@@ -294,7 +294,7 @@ export const food_list = [
         name: "Macarrão com Queijo",
         image: food_25,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Massa cremosa coberta com queijo derretido",
         category: "Macarrão"
     },
     {
@@ -302,49 +302,49 @@ export const food_list = [
         name: "Macarrão ao Tomate",
         image: food_26,
         price: 18,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Massa ao molho de tomate fresco e manjericão",
         category: "Macarrão"
     }, {
         _id: "27",
         name: "Macarrão Cremoso",
         image: food_27,
         price: 16,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Massa em molho branco cremoso",
         category: "Macarrão"
     }, {
         _id: "28",
         name: "Macarrão com Frango",
         image: food_28,
         price: 24,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Massa com pedaços de frango grelhado e molho especial",
         category: "Macarrão"
     }, {
         _id: "29",
         name: "Lámen com Manteiga",
         image: food_29,
         price: 14,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Macarrão salteado na manteiga com toque de ervas",
         category: "Lámen"
     }, {
         _id: "30",
         name: "Lámen de Legumes",
         image: food_30,
         price: 12,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Macarrão com legumes frescos salteados",
         category: "Lámen"
     }, {
         _id: "31",
         name: "Lámen Somen",
         image: food_31,
         price: 20,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Macarrão fino em caldo leve e saboroso",
         category: "Lámen"
     }, {
         _id: "32",
         name: "Lámen Cozido",
         image: food_32,
         price: 15,
-        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        description: "Macarrão cozido no ponto com molho encorpado",
         category: "Lámen"
     }
 ]
