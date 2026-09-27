@@ -84,267 +84,267 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
+        menu_name: "Salada",
         menu_image: menu_1
     },
     {
-        menu_name: "Rolls",
+        menu_name: "Enroladinhos",
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Sobremesas",
         menu_image: menu_3
     },
     {
-        menu_name: "Sandwich",
+        menu_name: "Sanduíche",
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Bolo",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Vegetariano",
         menu_image: menu_6
     },
     {
-        menu_name: "Pasta",
+        menu_name: "Macarrão",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Lámen",
         menu_image: menu_8
     }]
 
 export const food_list = [
     {
         _id: "1",
-        name: "Greek salad",
+        name: "Salada Grega",
         image: food_1,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Salada"
     },
     {
         _id: "2",
-        name: "Veg salad",
+        name: "Salada Vegana",
         image: food_2,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Salada"
     }, {
         _id: "3",
-        name: "Clover Salad",
+        name: "Salada Clover",
         image: food_3,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Salada"
     }, {
         _id: "4",
-        name: "Chicken Salad",
+        name: "Salada de Frango",
         image: food_4,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Salada"
     }, {
         _id: "5",
-        name: "Lasagna Rolls",
+        name: "Enroladinho de Lasanha",
         image: food_5,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Enroladinhos"
     }, {
         _id: "6",
-        name: "Peri Peri Rolls",
+        name: "Enroladinho Peri Peri",
         image: food_6,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Enroladinhos"
     }, {
         _id: "7",
-        name: "Chicken Rolls",
+        name: "Enroladinho de Frango",
         image: food_7,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Enroladinhos"
     }, {
         _id: "8",
-        name: "Veg Rolls",
+        name: "Enroladinho Vegetariano",
         image: food_8,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Enroladinhos"
     }, {
         _id: "9",
-        name: "Ripple Ice Cream",
+        name: "Sorvete Ripple",
         image: food_9,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sobremesas"
     }, {
         _id: "10",
-        name: "Fruit Ice Cream",
+        name: "Sorvete de Frutas",
         image: food_10,
         price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sobremesas"
     }, {
         _id: "11",
-        name: "Jar Ice Cream",
+        name: "Sorvete no Pote",
         image: food_11,
         price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sobremesas"
     }, {
         _id: "12",
-        name: "Vanilla Ice Cream",
+        name: "Sorvete de Baunilha",
         image: food_12,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sobremesas"
     },
     {
         _id: "13",
-        name: "Chicken Sandwich",
+        name: "Sanduíche de Frango",
         image: food_13,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sanduíche"
     },
     {
         _id: "14",
-        name: "Vegan Sandwich",
+        name: "Sanduíche Vegano",
         image: food_14,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sanduíche"
     }, {
         _id: "15",
-        name: "Grilled Sandwich",
+        name: "Sanduíche Grelhado",
         image: food_15,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sanduíche"
     }, {
         _id: "16",
-        name: "Bread Sandwich",
+        name: "Sanduíche de Pão",
         image: food_16,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Sanduíche"
     }, {
         _id: "17",
-        name: "Cup Cake",
+        name: "Cupcake",
         image: food_17,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Bolo"
     }, {
         _id: "18",
-        name: "Vegan Cake",
+        name: "Bolo Vegano",
         image: food_18,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Bolo"
     }, {
         _id: "19",
-        name: "Butterscotch Cake",
+        name: "Bolo de Butterscotch",
         image: food_19,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Bolo"
     }, {
         _id: "20",
-        name: "Sliced Cake",
+        name: "Bolo Fatiado",
         image: food_20,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Bolo"
     }, {
         _id: "21",
-        name: "Garlic Mushroom ",
+        name: "Cogumelo com Alho",
         image: food_21,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Vegetariano"
     }, {
         _id: "22",
-        name: "Fried Cauliflower",
+        name: "Couve-flor Frita",
         image: food_22,
         price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Vegetariano"
     }, {
         _id: "23",
-        name: "Mix Veg Pulao",
+        name: "Pulao de Legumes",
         image: food_23,
         price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Vegetariano"
     }, {
         _id: "24",
-        name: "Rice Zucchini",
+        name: "Arroz com Abobrinha",
         image: food_24,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Vegetariano"
     },
     {
         _id: "25",
-        name: "Cheese Pasta",
+        name: "Macarrão com Queijo",
         image: food_25,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Macarrão"
     },
     {
         _id: "26",
-        name: "Tomato Pasta",
+        name: "Macarrão ao Tomate",
         image: food_26,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Macarrão"
     }, {
         _id: "27",
-        name: "Creamy Pasta",
+        name: "Macarrão Cremoso",
         image: food_27,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Macarrão"
     }, {
         _id: "28",
-        name: "Chicken Pasta",
+        name: "Macarrão com Frango",
         image: food_28,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Macarrão"
     }, {
         _id: "29",
-        name: "Buttter Noodles",
+        name: "Lámen com Manteiga",
         image: food_29,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Lámen"
     }, {
         _id: "30",
-        name: "Veg Noodles",
+        name: "Lámen de Legumes",
         image: food_30,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Lámen"
     }, {
         _id: "31",
-        name: "Somen Noodles",
+        name: "Lámen Somen",
         image: food_31,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Lámen"
     }, {
         _id: "32",
-        name: "Cooked Noodles",
+        name: "Lámen Cozido",
         image: food_32,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "A comida fornece nutrientes essenciais para a saúde e o bem-estar geral",
+        category: "Lámen"
     }
 ]
